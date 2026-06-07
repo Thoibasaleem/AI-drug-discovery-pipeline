@@ -8,5 +8,7 @@ https://drive.google.com/drive/folders/1TB-JbOXxUfgPoD97U0MhreIFR7FDb_CM?usp=dri
 
 After downloading, place them in:
 
-binding-affinity/
-models/
+1.binding-affinity/
+
+
+2.models/
