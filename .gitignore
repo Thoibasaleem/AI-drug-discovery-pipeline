@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Large datasets/models
+*.pt
+*.pkl
+*.npy
+
+bindingnew/kiba.txt
+bindingnew/processed_data/
+binding-affinity/
+models/
+
+# Logs
+*.log

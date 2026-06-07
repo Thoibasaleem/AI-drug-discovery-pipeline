@@ -1,0 +1,814 @@
+disease,num_targets,avg_score
+neurodegenerative disease,125,0.418
+neoplasm,104,0.346
+cancer,62,0.416
+neuroinflammatory disorder,48,0.314
+Alzheimer disease,40,0.387
+Parkinson disease,38,0.381
+breast cancer,35,0.291
+hepatocellular carcinoma,32,0.303
+non-small cell lung carcinoma,30,0.464
+multiple sclerosis,29,0.373
+lysosomal storage disease,29,0.385
+acute myeloid leukemia,28,0.415
+genetic disorder,25,0.392
+Abnormality of the skeletal system,22,0.398
+hypertension,22,0.374
+type 2 diabetes mellitus,20,0.328
+chronic myelogenous leukemia,16,0.57
+cardiovascular disease,15,0.342
+Intellectual disability,13,0.49
+acute lymphoblastic leukemia,13,0.556
+Mastocytosis,12,0.484
+COVID-19,12,0.436
+systemic mastocytosis,12,0.488
+colorectal cancer,11,0.407
+schizophrenia,11,0.279
+mast-cell leukemia,11,0.471
+diabetes mellitus,11,0.288
+renal cell carcinoma,11,0.617
+dengue disease,11,0.407
+gastrointestinal stromal tumor,11,0.647
+hypertrophic cardiomyopathy,10,0.511
+ulcerative colitis,9,0.377
+rheumatoid arthritis,9,0.392
+chronic lymphocytic leukemia,9,0.434
+prostate cancer,9,0.162
+Noonan syndrome,9,0.64
+obesity,9,0.235
+essential hypertension,9,0.361
+asthma,9,0.323
+atrial fibrillation,9,0.427
+hypothyroidism,9,0.345
+multiple myeloma,9,0.281
+medullary thyroid gland carcinoma,9,0.571
+alcohol drinking,9,0.282
+acute myeloid leukemia by FAB classification,8,0.37
+melanoma,8,0.37
+type 1 diabetes mellitus,8,0.246
+glioma,8,0.121
+smoking initiation,8,0.338
+attention deficit hyperactivity disorder,8,0.161
+coronary artery disease,8,0.338
+colorectal carcinoma,8,0.081
+ovarian neoplasm,8,0.252
+gastric cancer,8,0.234
+lymphoid leukemia,8,0.392
+Neurodevelopmental disorder,7,0.396
+Abruptio Placentae,7,0.221
+prostate carcinoma,7,0.353
+bipolar disorder,7,0.346
+mathematical ability,7,0.348
+breast carcinoma,7,0.565
+systemic lupus erythematosus,7,0.452
+gout,7,0.355
+inflammatory bowel disease,7,0.287
+glioblastoma multiforme,7,0.149
+lung cancer,7,0.489
+psoriasis,7,0.367
+Global developmental delay,6,0.359
+metastatic colorectal cancer,6,0.548
+polycythemia vera,6,0.464
+myelofibrosis,6,0.595
+severe acute respiratory syndrome,6,0.32
+Crohn's disease,6,0.305
+cutaneous Leishmaniasis,6,0.481
+open-angle glaucoma,6,0.432
+triple-negative breast cancer,6,0.11
+alopecia areata,6,0.472
+lung adenocarcinoma,6,0.45
+breast neoplasm,6,0.575
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",6,0.424
+cardiofaciocutaneous syndrome,6,0.612
+Costello syndrome,6,0.504
+microcephaly,5,0.303
+ovarian cancer,5,0.305
+major depressive disorder,5,0.374
+colorectal neoplasm,5,0.419
+"osteoarthritis, hip",5,0.341
+sarcoma,5,0.452
+response to xenobiotic stimulus,5,0.269
+combined immunodeficiency,5,0.487
+osteoarthritis,5,0.248
+colorectal adenocarcinoma,5,0.479
+"osteoarthritis, knee",5,0.39
+idiopathic pulmonary fibrosis,5,0.379
+intelligence,5,0.257
+Retinal dystrophy,4,0.312
+esophageal squamous cell carcinoma,4,0.092
+ovarian carcinoma,4,0.28
+Dupuytren Contracture,4,0.316
+chronic obstructive pulmonary disease,4,0.24
+Eczematoid dermatitis,4,0.427
+liver disease,4,0.214
+MODY,4,0.17
+complex neurodevelopmental disorder,4,0.432
+small cell lung carcinoma,4,0.415
+rasopathy,4,0.56
+atopic eczema,4,0.555
+thyroid carcinoma,4,0.51
+skin basal cell carcinoma,4,0.375
+HIV infection,4,0.51
+adolescent idiopathic scoliosis,4,0.256
+tooth disease,4,0.134
+Familial prostate cancer,4,0.337
+glaucoma,4,0.436
+metabolic disease,4,0.245
+autism,4,0.306
+primary myelofibrosis,4,0.574
+Thrombocytopenia,3,0.31
+follicular lymphoma,3,0.544
+squamous cell lung carcinoma,3,0.329
+breast adenocarcinoma,3,0.518
+actinic keratosis,3,0.416
+amyotrophic lateral sclerosis,3,0.532
+Rare hemorrhagic disorder due to a constitutional platelet anomaly,3,0.473
+Miyoshi myopathy,3,0.084
+migraine disorder,3,0.245
+bone disease,3,0.33
+dementia,3,0.145
+psoriatic arthritis,3,0.56
+substance abuse,3,0.232
+papillary thyroid carcinoma,3,0.169
+hyperinsulinism due to INSR deficiency,3,0.29
+thyroid cancer,3,0.412
+lymphoma,3,0.356
+diffuse large B-cell lymphoma,3,0.371
+non-Hodgkins lymphoma,3,0.505
+urinary bladder carcinoma,3,0.314
+insomnia,3,0.299
+autosomal dominant non-syndromic intellectual disability,3,0.392
+hair color,3,0.425
+heart failure,3,0.302
+genetic developmental and epileptic encephalopathy,3,0.442
+dilated cardiomyopathy,3,0.402
+Seizure,3,0.433
+cervical carcinoma,3,0.267
+prostate adenocarcinoma,3,0.321
+leukemia,3,0.301
+nasopharyngeal carcinoma,3,0.132
+allergic rhinitis,3,0.378
+azoospermia,3,0.102
+soft tissue sarcoma,3,0.523
+neuroendocrine neoplasm,3,0.351
+head and neck squamous cell carcinoma,3,0.282
+sclerosing cholangitis,3,0.228
+clear cell renal carcinoma,3,0.481
+cutaneous melanoma,3,0.406
+Hashimoto's thyroiditis,3,0.221
+graft versus host disease,3,0.513
+severe combined immunodeficiency,3,0.5
+risk-taking behaviour,2,0.358
+Ellis-van Creveld syndrome,2,0.37
+lung carcinoma,2,0.413
+Ellis Van Creveld syndrome,2,0.37
+knee fracture,2,0.156
+autoimmune disease,2,0.504
+Abnormality of limbs,2,0.393
+cardiomyopathy,2,0.31
+thyroid disease,2,0.38
+Ischemic stroke,2,0.433
+substance-related disorder,2,0.259
+Increased blood pressure,2,0.342
+Hepatoblastoma,2,0.229
+Palmar Fibromatosis,2,0.301
+trauma complication,2,0.254
+cellulitis,2,0.123
+Jackson-Weiss syndrome,2,0.782
+Wheezing,2,0.309
+Glycogen storage disease due to phosphorylase kinase deficiency,2,0.583
+lymphoid neoplasm,2,0.37
+Hodgkins lymphoma,2,0.432
+neoplasm of mature B-cells,2,0.44
+pulmonary arterial hypertension,2,0.224
+stroke,2,0.413
+viral disease,2,0.053
+kidney failure,2,0.193
+Pfeiffer syndrome,2,0.823
+posterior cortical atrophy,2,0.08
+depressive disorder,2,0.307
+psoriasis vulgaris,2,0.516
+Inguinal hernia,2,0.092
+placenta praevia,2,0.232
+glomerulonephritis,2,0.237
+sialolithiasis,2,0.192
+joint disease,2,0.201
+Myoclonus,2,0.357
+gastric ulcer,2,0.293
+gastric carcinoma,2,0.344
+response to statin,2,0.141
+metabolic syndrome,2,0.522
+heart disease,2,0.414
+tuberculosis,2,0.372
+cardiac arrhythmia,2,0.323
+syndromic intellectual disability,2,0.416
+pancreatic ductal adenocarcinoma,2,0.405
+retinitis pigmentosa,2,0.654
+smoking behavior,2,0.33
+kidney disease,2,0.211
+ovarian dysfunction,2,0.231
+cervical cancer,2,0.06
+interstitial lung disease,2,0.572
+thyroid neoplasm,2,0.39
+carpal tunnel syndrome,2,0.166
+chronic kidney disease,2,0.133
+Abnormality of the cardiovascular system,2,0.525
+Milroy disease,2,0.582
+neurofibromatosis type 1,2,0.558
+keratitis,2,0.462
+obsessive-compulsive disorder,2,0.218
+metastatic melanoma,2,0.55
+esophageal adenocarcinoma,2,0.373
+respiratory system disease,2,0.355
+osteosarcoma,2,0.068
+infection,2,0.065
+partial chromosome Y deletion,2,0.071
+overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes,2,0.576
+Abnormal facial shape,2,0.427
+hypertriglyceridemia 2,2,0.057
+skin neoplasm,2,0.231
+subarachnoid hemorrhage,2,0.278
+hyperinsulinism due to glucokinase deficiency,2,0.061
+poisoning,2,0.307
+Combined hyperlipidemia,2,0.048
+familial hypercholesterolemia,2,0.056
+placental retention,2,0.275
+hereditary neoplastic syndrome,2,0.338
+Atypical behavior,2,0.534
+Hereditary breast and ovarian cancer syndrome,2,0.118
+hereditary breast ovarian cancer syndrome,2,0.118
+Li-Fraumeni syndrome,2,0.366
+familial medullary thyroid carcinoma,2,0.685
+urinary bladder cancer,2,0.714
+Inherited cancer-predisposing syndrome,2,0.337
+Vitiligo,2,0.288
+head and neck malignant neoplasia,2,0.366
+acute coronary syndrome,2,0.335
+ocular hypertension,2,0.581
+immune system disease,2,0.379
+Fuchs endothelial corneal dystrophy,2,0.359
+Fuchs' endothelial dystrophy,2,0.313
+conduction system disorder,2,0.282
+mental or behavioural disorder,2,0.262
+ankylosing spondylitis,2,0.296
+hypotension,2,0.256
+parasitic infection,2,0.238
+Facioscapulohumeral dystrophy,2,0.291
+acne,2,0.182
+epilepsy,2,0.198
+bipolar I disorder,2,0.572
+pathological myopia,2,0.216
+HER2 Positive Breast Carcinoma,2,0.514
+Epileptic encephalopathy,2,0.274
+angina pectoris,2,0.396
+autosomal recessive primary microcephaly,2,0.447
+anorexia nervosa,2,0.237
+hyperlipidemia,2,0.288
+coronary atherosclerosis,2,0.314
+undetermined early-onset epileptic encephalopathy,2,0.351
+oral squamous cell carcinoma,2,0.07
+Myelodysplastic/Myeloproliferative Neoplasm,1,0.552
+Abnormality of movement,1,0.462
+Headache,1,0.365
+oligodendroglioma,1,0.334
+urolithiasis,1,0.335
+frontotemporal dementia and/or amyotrophic lateral sclerosis 4,1,0.808
+lower respiratory tract disease,1,0.269
+Ataxia,1,0.463
+Herpetic encephalitis,1,0.66
+autoinflammation with arthritis and vasculitis,1,0.461
+Cowden syndrome 6,1,0.68
+frontotemporal dementia,1,0.397
+chorea,1,0.462
+malignant colon neoplasm,1,0.277
+Dystonia,1,0.463
+megalencephaly-capillary malformation-polymicrogyria syndrome,1,0.847
+frontotemporal dementia with motor neuron disease,1,0.37
+esophageal cancer,1,0.279
+CLOVE syndrome,1,0.795
+Waldenstrom macroglobulinemia,1,0.568
+Bruton-type agammaglobulinemia,1,0.687
+Mantle cell lymphoma,1,0.691
+Non-acquired isolated growth hormone deficiency,1,0.728
+isolated growth hormone deficiency type III,1,0.728
+adult onset asthma,1,0.257
+X-linked agammaglobulinemia,1,0.845
+upper respiratory tract disorder,1,0.445
+Pick disease,1,0.394
+esophageal ulcer,1,0.239
+motor neuron disease,1,0.368
+cataract,1,0.199
+Hermansky-Pudlak syndrome 8,1,0.497
+brain malformation renal syndrome,1,0.362
+listeriosis,1,0.567
+hereditary papillary renal cell carcinoma,1,0.767
+breast disease,1,0.228
+fibroblastic disorder,1,0.205
+papillary renal cell carcinoma,1,0.842
+smoking cessation,1,0.118
+hereditary spastic paraplegia 3A,1,0.179
+burn,1,0.222
+Pain,1,0.191
+pancreatic carcinoma,1,0.184
+Meckel syndrome,1,0.259
+major depressive episode,1,0.31
+vertebral column disorder,1,0.199
+Proptosis,1,0.165
+viral eye infection,1,0.3
+ureterolithiasis,1,0.213
+synovium disorder,1,0.311
+Hermansky-Pudlak syndrome,1,0.149
+Proteus syndrome,1,0.76
+head injury,1,0.112
+Tendinopathy,1,0.311
+malnutrition,1,0.049
+sunburn,1,0.204
+cutaneous squamous cell carcinoma,1,0.41
+nasopharyngeal neoplasm,1,0.619
+childhood onset asthma,1,0.463
+myelodysplastic/myeloproliferative disease,1,0.552
+"autoinflammation, immune dysregulation, and eosinophilia",1,0.685
+non-alcoholic steatohepatitis,1,0.191
+"hearing loss, autosomal dominant 87",1,0.474
+Umbilical hernia,1,0.387
+Spasticity - intellectual disability - X-linked epilepsy,1,0.333
+Epidermal Inclusion Cyst,1,0.388
+infantile epileptic-dyskinetic encephalopathy,1,0.333
+bone development disease,1,0.573
+cholangiocarcinoma,1,0.573
+"developmental and epileptic encephalopathy, 1",1,0.333
+diabetic nephropathy,1,0.124
+urothelial carcinoma,1,0.584
+experimental autoimmune encephalomyelitis,1,0.095
+rhabdomyosarcoma,1,0.595
+Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome,1,0.83
+squamous cell carcinoma,1,0.406
+GIST-plus syndrome,1,0.74
+autoinflammation with pulmonary and cutaneous vasculitis,1,0.4
+isolated focal cortical dysplasia type II,1,0.823
+congenital heart defects and skeletal malformations syndrome,1,0.805
+CEBALID syndrome,1,0.524
+Noonan syndrome with multiple lentigines,1,0.666
+LEOPARD syndrome 2,1,0.71
+aceruloplasminemia,1,0.041
+Noonan syndrome 5,1,0.763
+Myocardial Ischemia,1,0.256
+foot fracture,1,0.076
+dermatofibrosarcoma protuberans,1,0.562
+Hypereosinophilic syndrome,1,0.558
+Arthrogryposis - renal dysfunction - cholestasis,1,0.333
+lymphatic system disease,1,0.294
+male infertility,1,0.233
+seborrheic keratosis,1,0.731
+CLOVES syndrome,1,0.789
+Venous malformation,1,0.504
+skin disease,1,0.327
+Abnormal cardiovascular system morphology,1,0.512
+vascular malformation,1,0.528
+congenital glaucoma,1,0.727
+Mucocutaneous venous malformations,1,0.762
+multiple cutaneous and mucosal venous malformations,1,0.806
+PIK3CA-related overgrowth spectrum,1,0.767
+Cowden syndrome 5,1,0.754
+skin cancer,1,0.326
+marginal zone B-cell lymphoma,1,0.463
+melorheostosis,1,0.724
+cardiofaciocutaneous syndrome 3,1,0.813
+eye color,1,0.318
+bilateral striopallidodentate calcinosis,1,0.782
+anthrax infection,1,0.37
+medical procedure,1,0.375
+total hip arthroplasty,1,0.398
+alopecia,1,0.185
+Graves disease,1,0.374
+pik3ca related overgrowth spectrum,1,0.75
+Combined T and B cell immunodeficiency,1,0.463
+infantile spasms,1,0.333
+sarcoidosis,1,0.476
+"autoimmune disease, multisystem, infantile-onset, 2",1,0.529
+combined immunodeficiency due to ZAP70 deficiency,1,0.807
+Seckel syndrome,1,0.728
+Antley-Bixler syndrome without genital anomalies or disordered steroidogenesis,1,0.813
+Basal ganglia calcification,1,0.782
+Diamond-Blackfan anemia,1,0.085
+Arthropathy,1,0.064
+spondylolisthesis,1,0.076
+Behcet's syndrome,1,0.421
+activated PI3K-delta syndrome,1,0.76
+"immunodeficiency 14b, autosomal recessive",1,0.689
+Poirier-Bienvenu neurodevelopmental syndrome,1,0.793
+Hernia,1,0.214
+Leber congenital amaurosis,1,0.381
+retinopathy,1,0.381
+Posterior column ataxia - retinitis pigmentosa,1,0.407
+combined immunodeficiency with faciooculoskeletal anomalies,1,0.615
+Combined immunodeficiency with facio-oculo-skeletal anomalies,1,0.615
+autosomal recessive retinitis pigmentosa,1,0.523
+immunodeficiency 72 with autoinflammation,1,0.558
+"neuropathy, hereditary motor and sensory, type 6A",1,0.261
+platelet-type bleeding disorder 19,1,0.524
+immunodeficiency 97 with autoinflammation,1,0.533
+adrenocortical insufficiency,1,0.092
+severe combined immunodeficiency due to DNA-PKcs deficiency,1,0.727
+primary thrombocytopenia,1,0.246
+preeclampsia,1,0.169
+albuminuria,1,0.338
+plasma fibronectin deficiency,1,0.059
+cornea transplantation,1,0.261
+congenital heart defects and ectodermal dysplasia,1,0.707
+pyruvate dehydrogenase deficiency,1,0.26
+lactic acidosis,1,0.279
+brain cancer,1,0.312
+Pituitary Gland Adenoma,1,0.069
+severe malarial anemia,1,0.075
+"melanoma, cutaneous malignant, susceptibility to, 3",1,0.714
+abscess,1,0.216
+Erythema nodosum,1,0.321
+familial lipoprotein lipase deficiency,1,0.23
+microcephaly and chorioretinopathy 1,1,0.37
+respiratory system neoplasm,1,0.268
+Dravet syndrome,1,0.085
+Hypercholesterolemia,1,0.311
+Rare familial disorder with hypertrophic cardiomyopathy,1,0.538
+familial dilated cardiomyopathy,1,0.565
+Wolff-Parkinson-White Syndrome,1,0.751
+lethal congenital glycogen storage disease of heart,1,0.786
+hypertrophic cardiomyopathy 6,1,0.797
+Hernia of the abdominal wall,1,0.349
+diverticular disease,1,0.319
+Phlebitis,1,0.056
+Thrombophlebitis,1,0.06
+Increased muscle glycogen content,1,0.172
+coronary artery bypass,1,0.124
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1,1,0.462
+chronic primary adrenal insufficiency,1,0.15
+hemorrhoid,1,0.31
+Venous thrombosis,1,0.31
+hypertensive heart disease,1,0.161
+lupus erythematosus,1,0.159
+isolated asymptomatic elevation of creatine phosphokinase,1,0.064
+infantile-onset mesial temporal lobe epilepsy with severe cognitive regression,1,0.37
+cardioacrofacial dysplasia 2,1,0.749
+Abnormal nasolacrimal system morphology,1,0.312
+"developmental and epileptic encephalopathy, 87",1,0.79
+self-injurious ideation,1,0.238
+familial hemolytic anemia,1,0.032
+nephrotic syndrome,1,0.033
+bronchial disease,1,0.228
+intellectual developmental disorder with hypotonia and behavioral abnormalities,1,0.787
+Abnormal heart morphology,1,0.34
+"myofibromatosis, infantile, 1",1,0.779
+thanatophoric dysplasia type 1,1,0.818
+Pulmonary Infarction,1,0.424
+cor pulmonale,1,0.427
+Thromboembolism,1,0.427
+choriocarcinoma,1,0.074
+deep vein thrombosis,1,0.431
+pulmonary embolism,1,0.466
+venous thromboembolism,1,0.539
+childhood acute myeloid leukemia,1,0.388
+myeloid leukemia,1,0.443
+Crouzon syndrome - acanthosis nigricans,1,0.757
+thanatophoric dysplasia type 2,1,0.788
+Crouzon syndrome-acanthosis nigricans syndrome,1,0.79
+hypochondroplasia,1,0.801
+Muenke syndrome,1,0.804
+Severe achondroplasia - developmental delay - acanthosis nigricans,1,0.823
+hemangioblastoma,1,0.37
+"thyroid hormone metabolism, abnormal, 2",1,0.052
+achondroplasia,1,0.827
+sitosterolemia 2,1,0.049
+LADD syndrome 1,1,0.78
+bent bone dysplasia syndrome 1,1,0.792
+Lacrimoauriculodentodigital syndrome,1,0.797
+Primary microcephaly,1,0.371
+homozygous familial hypercholesterolemia,1,0.047
+Beare-Stevenson cutis gyrata syndrome,1,0.824
+Apert syndrome,1,0.836
+Crouzon syndrome,1,0.864
+infantile myofibromatosis,1,0.728
+acroosteolysis-keloid-like lesions-premature aging syndrome,1,0.744
+skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome,1,0.748
+retinoblastoma,1,0.074
+myoepithelial tumor,1,0.111
+Ventriculomegaly,1,0.34
+vein of Galen aneurysm,1,0.51
+Common atrium,1,0.34
+fibrodysplasia ossificans progressiva,1,0.816
+tibia fracture,1,0.503
+Takayasu arteritis,1,0.389
+Hereditary late-onset Parkinson disease,1,0.835
+Endometrial Endometrioid Adenocarcinoma,1,0.37
+Knobloch syndrome 2,1,0.353
+Young adult-onset Parkinsonism,1,0.551
+Knobloch syndrome 1,1,0.375
+Knobloch syndrome,1,0.454
+Febrile seizure (within the age range of 3 months to 6 years),1,0.219
+dysthymic disorder,1,0.318
+mood disorder,1,0.325
+capillary malformation-arteriovenous malformation syndrome,1,0.465
+late-onset Parkinson disease,1,0.454
+breast ductal adenocarcinoma,1,0.37
+EPHB4-associated vascular malformation spectrum,1,0.512
+leprosy,1,0.378
+lymphatic malformation 7,1,0.751
+"Parkinson disease, dominant",1,0.372
+Capillary malformation - arteriovenous malformation,1,0.832
+Hearing impairment,1,0.416
+coloboma of iris,1,0.416
+Developmental cataract,1,0.416
+Abnormality of the ear,1,0.416
+Abnormality of vision,1,0.416
+"intellectual disability, autosomal dominant 53",1,0.796
+"intellectual disability, autosomal recessive 63",1,0.436
+choanal atresia,1,0.416
+kidney neoplasm,1,0.37
+nephrolithiasis,1,0.276
+CAMK2D-related neurodevelopmental disorder and dilated cardiomyopathy,1,0.416
+Megalencephaly - polymicrogyria - postaxial polydactyly - hydrocephalus,1,0.673
+glycogen storage disease IXc,1,0.748
+hypogonadotropic hypogonadism 2 with or without anosmia,1,0.847
+Hartsfield-Bixler-Demyer syndrome,1,0.826
+osteoglophonic dysplasia,1,0.794
+encephalocraniocutaneous lipomatosis,1,0.774
+trigonocephaly 1,1,0.738
+hypogonadotropic hypogonadism,1,0.66
+disorder of glycogen metabolism,1,0.504
+Central Nervous System Lymphoma,1,0.382
+Glycogen storage disease due to glycogenin deficiency,1,0.503
+glycogen storage disease due to liver phosphorylase kinase deficiency,1,0.37
+lumbar disc herniation,1,0.339
+cardioacrofacial dysplasia 1,1,0.686
+"pigmented nodular adrenocortical disease, primary, 4",1,0.557
+Fibrolamellar Carcinoma,1,0.378
+diffuse large B-cell lymphoma of the central nervous system,1,0.372
+maculopapular cutaneous mastocytosis,1,0.663
+hepatocellular adenoma,1,0.37
+pheochromocytoma,1,0.778
+lagophthalmos,1,0.258
+myocardial infarction,1,0.547
+"autoinflammatory disease, systemic, with vasculitis",1,0.712
+multiple endocrine neoplasia type 2A,1,0.859
+multiple endocrine neoplasia type 2B,1,0.819
+Hirschsprung disease,1,0.793
+multiple endocrine neoplasia,1,0.67
+cutaneous mastocytosis,1,0.81
+growth delay due to insulin-like growth factor I resistance,1,0.817
+Graves ophthalmopathy,1,0.577
+Growth delay,1,0.47
+spitz nevus,1,0.372
+melanocytic neoplasm,1,0.371
+piebaldism,1,0.821
+Cortisol-Producing Adrenal Cortex Adenoma,1,0.37
+"ACTH-independent adrenal Cushing syndrome, somatic",1,0.333
+ebv-positive nodal t- and nk-cell lymphoma,1,0.499
+mucocutaneous lymph node syndrome,1,0.545
+Skin rash,1,0.476
+arthritis,1,0.469
+Familial advanced sleep-phase syndrome,1,0.639
+glioblastoma,1,0.084
+Decreased total leukocyte count,1,0.073
+Macrocephaly,1,0.333
+systemic scleroderma,1,0.484
+autoimmune thrombocytopenic purpura,1,0.547
+connective tissue disease,1,0.393
+Rett syndrome,1,0.335
+Coffin-Lowry syndrome,1,0.834
+"intellectual disability, X-linked 19",1,0.772
+X-linked non-syndromic intellectual disability,1,0.706
+Motor delay,1,0.37
+colitis,1,0.489
+Decreased circulating immunoglobulin concentration,1,0.564
+Iron deficiency anemia,1,0.188
+hypoinsulinemic hypoglycemia and body hemihypertrophy,1,0.787
+visual impairment and progressive phthisis bulbi,1,0.401
+Total congenital cataract,1,0.769
+Posterior polar cataract,1,0.769
+early-onset non-syndromic cataract,1,0.68
+immunodeficiency 35,1,0.756
+Autosomal recessive hyper-IgE syndrome due to TYK2 deficiency,1,0.603
+AKT2-related familial partial lipodystrophy,1,0.383
+Immunodeficiency,1,0.569
+Familial partial lipodystrophy due to AKT2 mutations,1,0.382
+lymphatic malformation 1,1,0.79
+"congenital heart defects, multiple types, 7",1,0.765
+capillary infantile hemangioma,1,0.629
+Columnar Cell Hyperplasia of the Breast,1,0.033
+immunodeficiency 82 with systemic inflammation,1,0.609
+prostatitis,1,0.397
+Donohue syndrome,1,0.759
+non-syndromic X-linked intellectual disability,1,0.37
+Chronic mucocutaneous candidosis,1,0.073
+response to antihypertensive drug,1,0.235
+Abnormal central motor function,1,0.092
+Pallister-Hall syndrome,1,0.075
+endometriosis,1,0.074
+discoid lupus erythematosus,1,0.074
+glycogen storage disease due to lactate dehydrogenase H-subunit deficiency,1,0.074
+developmental and epileptic encephalopathy,1,0.37
+cervical squamous cell carcinoma,1,0.512
+hearing loss,1,0.334
+color vision disorder,1,0.316
+nervous system disease,1,0.26
+Lennox-Gastaut syndrome,1,0.252
+chronic graft versus host disease,1,0.297
+iridocyclitis,1,0.291
+muscle cramp,1,0.306
+Specific learning disability,1,0.514
+Cachexia,1,0.3
+"leukoencephalopathy, diffuse hereditary, with spheroids 1",1,0.839
+severe combined immunodeficiency due to IKK2 deficiency,1,0.787
+immunodeficiency 15a,1,0.648
+autoimmune disorder of musculoskeletal system,1,0.398
+cocoon syndrome,1,0.674
+Bartsocas-Papas syndrome 1,1,0.403
+severe combined immunodeficiency due to LCK deficiency,1,0.761
+Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia,1,0.832
+Noonan syndrome 13,1,0.581
+"brain abnormalities, neurodegeneration, and dysosteosclerosis",1,0.785
+"leukoencephalopathy, hereditary diffuse, with spheroids",1,0.565
+"tenosynovial giant cell tumor, diffuse type",1,0.525
+cardiofaciocutaneous syndrome 1,1,0.763
+Noonan syndrome 7,1,0.759
+LEOPARD syndrome 3,1,0.756
+Moyamoya disease,1,0.259
+Abnormality of the integument,1,0.227
+Rabson-Mendenhall syndrome,1,0.82
+bone osteosarcoma,1,0.711
+multiple congenital anomalies/dysmorphic syndrome-intellectual disability,1,0.483
+adrenal gland hyperfunction,1,0.306
+renal dysplasia,1,0.266
+imperforate anus,1,0.266
+Hereditary breast cancer,1,0.727
+hereditary breast carcinoma,1,0.727
+CHEK2-related cancer predisposition,1,0.666
+knee injury,1,0.276
+hereditary sensory and autonomic neuropathy type 4,1,0.858
+spinocerebellar ataxia type 14,1,0.79
+hereditary ataxia,1,0.334
+cerebellar ataxia,1,0.265
+Leprechaunism,1,0.845
+insulin-resistance syndrome type A,1,0.845
+bone fracture,1,0.274
+osteoporosis,1,0.282
+scleritis,1,0.225
+movement disorder,1,0.074
+oocyte/zygote/embryo maturation arrest 21,1,0.478
+Male infertility due to gonadal dysgenesis or sperm disorder,1,0.266
+unspecified peripheral T-cell lymphoma,1,0.259
+Breast hypertrophy,1,0.309
+generalized dystonia,1,0.296
+hypopituitarism,1,0.265
+"intellectual disability, autosomal recessive 59",1,0.074
+morbid obesity,1,0.298
+schizophrenia 15,1,0.074
+attention deficit-hyperactivity disorder 8,1,0.074
+myeloproliferative disorder,1,0.724
+Splenomegaly,1,0.688
+essential thrombocythemia,1,0.633
+basal cell carcinoma,1,0.318
+symptomatic form of Coffin-Lowry syndrome in female carriers,1,0.37
+Mayer-Rokitansky-Kuster-Hauser syndrome,1,0.074
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2,1,0.805
+Male infertility with spermatogenesis disorder due to single gene mutation,1,0.074
+spermatogenic failure 65,1,0.09
+spermatogenic failure 58,1,0.09
+spermatogenic failure 79,1,0.09
+temporal lobe epilepsy,1,0.038
+ovulation,1,0.027
+NK-cell enteropathy,1,0.259
+Female infertility due to fertilization defect,1,0.072
+spermatogenic failure 11,1,0.091
+Rare genetic female infertility,1,0.069
+spermatogenic failure 3,1,0.061
+spermatogenic failure 55,1,0.061
+spermatogenic failure 26,1,0.058
+spermatogenic failure 87,1,0.058
+spermatogenic failure 53,1,0.058
+spermatogenic failure 10,1,0.091
+congenital myasthenic syndrome,1,0.182
+inborn disorder of amino acid metabolism,1,0.043
+cystitis,1,0.07
+ganglioglioma,1,0.375
+congenital mesoblastic nephroma,1,0.374
+"obesity, hyperphagia, and developmental delay",1,0.731
+pilocytic astrocytoma,1,0.376
+patterned macular dystrophy 3,1,0.547
+patterned macular dystrophy,1,0.37
+autosomal recessive ataxia due to ubiquinone deficiency,1,0.333
+neurocardiofaciodigital syndrome,1,0.694
+coenzyme Q10 deficiency,1,0.333
+stomach disease,1,0.314
+autism spectrum disorder,1,0.57
+pancreatic adenocarcinoma,1,0.269
+Anxiety,1,0.12
+developmental delay with or without intellectual impairment or behavioral abnormalities,1,0.779
+celiac disease,1,0.147
+congenital heart disease,1,0.04
+polycystic ovary syndrome,1,0.544
+centronuclear myopathy,1,0.386
+inborn error of immunity,1,0.464
+immunodeficiency 33,1,0.342
+congenital dyserythropoietic anemia,1,0.296
+pericarditis,1,0.263
+"myopathy, centronuclear, 6, with fiber-type disproportion",1,0.75
+split-foot malformation-mesoaxial polydactyly syndrome,1,0.743
+congenital fiber-type disproportion myopathy,1,0.37
+immunodeficiency 67,1,0.759
+Split hand-split foot malformation,1,0.333
+obstructive sleep apnea,1,0.028
+neuroblastoma,1,0.802
+"neuroblastoma, susceptibility to, 3",1,0.746
+anaplastic large cell lymphoma,1,0.513
+inflammatory myofibroblastic tumor,1,0.431
+Immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency,1,0.737
+Sepsis,1,0.008
+Neck pain,1,0.257
+tonsillitis,1,0.02
+uterine fibroid,1,0.419
+Menorrhagia,1,0.264
+Gastrointestinal hemorrhage,1,0.242
+Uterine leiomyoma,1,0.192
+hereditary attention deficit-hyperactivity disorder,1,0.073
+cardiac hypertrophy,1,0.05
+exostosis,1,0.256
+hepatitis B virus infection,1,0.018
+Barrett's esophagus,1,0.063
+Abnormality of the face,1,0.37
+bronchiectasis,1,0.219
+bacteriemia,1,0.308
+edema,1,0.021
+brain compression,1,0.02
+congenital fibrosarcoma,1,0.377
+familial amyotrophic lateral sclerosis,1,0.559
+maturity-onset diabetes of the young type 4,1,0.053
+restless legs syndrome,1,0.366
+primary ovarian insufficiency,1,0.056
+Familial exudative vitreoretinopathy,1,0.05
+Isolated follicle stimulating hormone deficiency,1,0.049
+Kallmann syndrome,1,0.048
+lissencephaly 7 with cerebellar hypoplasia,1,0.399
+lissencephaly with cerebellar hypoplasia,1,0.185
+vein disorder,1,0.329
+Testicular Germ Cell Tumor,1,0.074
+Varicose veins,1,0.329
+autoimmune lymphoproliferative syndrome,1,0.667
+Moderate albuminuria,1,0.321
+"46,XX disorder of sex development",1,0.111
+lymphoproliferative syndrome 1,1,0.766
+post-traumatic stress disorder,1,0.039
+"46,XX gonadal dysgenesis",1,0.057
+corneal ulcer,1,0.274
+peptic ulcer disease,1,0.285
+pituitary gland disease,1,0.116
+"diabetes mellitus, transient neonatal, 2",1,0.051
+maturity-onset diabetes of the young type 2,1,0.047
+maturity-onset diabetes of the young type 6,1,0.047
+maturity-onset diabetes of the young type 3,1,0.046
+total joint arthroplasty,1,0.282
+ciliopathy,1,0.259
+T-B+ severe combined immunodeficiency due to JAK3 deficiency,1,0.845
+mouth disease,1,0.305
+"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive",1,0.507
+biliary tract disease,1,0.195
+intrahepatic cholangiocarcinoma,1,0.079
+Okur-Chung neurodevelopmental syndrome,1,0.801
+Neurodevelopmental delay,1,0.341
+developmental disorder of mental health,1,0.34
+duodenal ulcer,1,0.285
+Primary amenorrhea,1,0.118
+paralytic strabismus,1,0.134
+dystonia 27,1,0.046
+familial thoracic aortic aneurysm and aortic dissection,1,0.694
+Rare genetic vascular disease,1,0.462
+Rare disease with thoracic aortic aneurysm and aortic dissection,1,0.431
+laryngeal carcinoma,1,0.356
+bone remodeling disease,1,0.311
+pachyonychia congenita,1,0.074
+essential tremor,1,0.044
+absent or delayed speech development,1,0.51
+"Primary dystonia, DYT13 type",1,0.043
+Cranio-cervical dystonia with laryngeal and upper-limb involvement,1,0.041
+spinocerebellar ataxia type 20,1,0.041
+episodic ataxia type 1,1,0.04
+spinocerebellar ataxia type 15/16,1,0.036
+gestational diabetes,1,0.292
+Feeding difficulties,1,0.507
+Deeply set eye,1,0.51
+"intellectual developmental disorder with macrocephaly, seizures, and speech delay",1,0.711
+"intellectual disability, autosomal dominant 54",1,0.775
+drug allergy,1,0.246
+multinodular goiter,1,0.224
+benign prostatic hyperplasia,1,0.239
+familial pancreatic carcinoma,1,0.061
+acromesomelic dysplasia,1,0.667
+"spondylometaphyseal dysplasia, pagnamenta type",1,0.547
+Abnormality of the nervous system,1,0.34
+Rare genetic intellectual disability with developmental anomaly,1,0.534
+dystonic disorder,1,0.259
+intellectual developmental disorder 59,1,0.635
+Severe intellectual disability,1,0.399
+heart conduction disease,1,0.398
+artificial cardiac pacemaker,1,0.367
+DYRK1A-related intellectual disability syndrome,1,0.781
+acute tonsillitis,1,0.113

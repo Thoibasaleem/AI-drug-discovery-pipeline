@@ -1,0 +1,1147 @@
+{
+  "O00141": {
+    "ensembl_id": "ENSG00000118515",
+    "symbol": "SGK1",
+    "sequence": null
+  },
+  "O14920": {
+    "ensembl_id": "ENSG00000104365",
+    "symbol": "IKBKB",
+    "sequence": null
+  },
+  "O15111": {
+    "ensembl_id": "ENSG00000213341",
+    "symbol": "CHUK",
+    "sequence": null
+  },
+  "P00533": {
+    "ensembl_id": "ENSG00000146648",
+    "symbol": "EGFR",
+    "sequence": null
+  },
+  "P04626": {
+    "ensembl_id": "ENSG00000141736",
+    "symbol": "ERBB2",
+    "sequence": null
+  },
+  "P06239": {
+    "ensembl_id": "ENSG00000182866",
+    "symbol": "LCK",
+    "sequence": null
+  },
+  "P07333": {
+    "ensembl_id": "ENSG00000182578",
+    "symbol": "CSF1R",
+    "sequence": null
+  },
+  "P15056": {
+    "ensembl_id": "ENSG00000157764",
+    "symbol": "BRAF",
+    "sequence": null
+  },
+  "P24941": {
+    "ensembl_id": "ENSG00000123374",
+    "symbol": "CDK2",
+    "sequence": null
+  },
+  "P28482": {
+    "ensembl_id": "ENSG00000100030",
+    "symbol": "MAPK1",
+    "sequence": null
+  },
+  "P45983": {
+    "ensembl_id": "ENSG00000107643",
+    "symbol": "MAPK8",
+    "sequence": null
+  },
+  "P45984": {
+    "ensembl_id": "ENSG00000050748",
+    "symbol": "MAPK9",
+    "sequence": null
+  },
+  "P49841": {
+    "ensembl_id": "ENSG00000082701",
+    "symbol": "GSK3B",
+    "sequence": null
+  },
+  "P53350": {
+    "ensembl_id": "ENSG00000166851",
+    "symbol": "PLK1",
+    "sequence": null
+  },
+  "P53779": {
+    "ensembl_id": "ENSG00000109339",
+    "symbol": "MAPK10",
+    "sequence": null
+  },
+  "Q13464": {
+    "ensembl_id": "ENSG00000067900",
+    "symbol": "ROCK1",
+    "sequence": null
+  },
+  "Q16539": {
+    "ensembl_id": "ENSG00000112062",
+    "symbol": "MAPK14",
+    "sequence": null
+  },
+  "Q16584": {
+    "ensembl_id": "ENSG00000173327",
+    "symbol": "MAP3K11",
+    "sequence": null
+  },
+  "O00311": {
+    "ensembl_id": "ENSG00000097046",
+    "symbol": "CDC7",
+    "sequence": null
+  },
+  "O14757": {
+    "ensembl_id": "ENSG00000149554",
+    "symbol": "CHEK1",
+    "sequence": null
+  },
+  "O14965": {
+    "ensembl_id": "ENSG00000087586",
+    "symbol": "AURKA",
+    "sequence": null
+  },
+  "O15075": {
+    "ensembl_id": "ENSG00000133083",
+    "symbol": "DCLK1",
+    "sequence": null
+  },
+  "O15264": {
+    "ensembl_id": "ENSG00000156711",
+    "symbol": "MAPK13",
+    "sequence": null
+  },
+  "O15530": {
+    "ensembl_id": "ENSG00000140992",
+    "symbol": "PDPK1",
+    "sequence": null
+  },
+  "O43293": {
+    "ensembl_id": "ENSG00000167657",
+    "symbol": "DAPK3",
+    "sequence": null
+  },
+  "O60674": {
+    "ensembl_id": "ENSG00000096968",
+    "symbol": "JAK2",
+    "sequence": null
+  },
+  "O75116": {
+    "ensembl_id": "ENSG00000134318",
+    "symbol": "ROCK2",
+    "sequence": null
+  },
+  "O75582": {
+    "ensembl_id": "ENSG00000100784",
+    "symbol": "RPS6KA5",
+    "sequence": null
+  },
+  "O94806": {
+    "ensembl_id": "ENSG00000115825",
+    "symbol": "PRKD3",
+    "sequence": null
+  },
+  "O95819": {
+    "ensembl_id": "ENSG00000071054",
+    "symbol": "MAP4K4",
+    "sequence": null
+  },
+  "O96013": {
+    "ensembl_id": "ENSG00000130669",
+    "symbol": "PAK4",
+    "sequence": null
+  },
+  "O96017": {
+    "ensembl_id": "ENSG00000183765",
+    "symbol": "CHEK2",
+    "sequence": null
+  },
+  "P04629": {
+    "ensembl_id": "ENSG00000198400",
+    "symbol": "NTRK1",
+    "sequence": null
+  },
+  "P05129": {
+    "ensembl_id": "ENSG00000126583",
+    "symbol": "PRKCG",
+    "sequence": null
+  },
+  "P06213": {
+    "ensembl_id": "ENSG00000171105",
+    "symbol": "INSR",
+    "sequence": null
+  },
+  "P06241": {
+    "ensembl_id": "ENSG00000010810",
+    "symbol": "FYN",
+    "sequence": null
+  },
+  "P06493": {
+    "ensembl_id": "ENSG00000170312",
+    "symbol": "CDK1",
+    "sequence": null
+  },
+  "P07332": {
+    "ensembl_id": "ENSG00000182511",
+    "symbol": "FES",
+    "sequence": null
+  },
+  "P07948": {
+    "ensembl_id": "ENSG00000254087",
+    "symbol": "LYN",
+    "sequence": null
+  },
+  "P07949": {
+    "ensembl_id": "ENSG00000165731",
+    "symbol": "RET",
+    "sequence": null
+  },
+  "P08069": {
+    "ensembl_id": "ENSG00000140443",
+    "symbol": "IGF1R",
+    "sequence": null
+  },
+  "P08922": {
+    "ensembl_id": "ENSG00000047936",
+    "symbol": "ROS1",
+    "sequence": null
+  },
+  "P10721": {
+    "ensembl_id": "ENSG00000157404",
+    "symbol": "KIT",
+    "sequence": null
+  },
+  "P11309": {
+    "ensembl_id": "ENSG00000137193",
+    "symbol": "PIM1",
+    "sequence": null
+  },
+  "P11362": {
+    "ensembl_id": "ENSG00000077782",
+    "symbol": "FGFR1",
+    "sequence": null
+  },
+  "P12931": {
+    "ensembl_id": "ENSG00000197122",
+    "symbol": "SRC",
+    "sequence": null
+  },
+  "P15735": {
+    "ensembl_id": "ENSG00000156873",
+    "symbol": "PHKG2",
+    "sequence": null
+  },
+  "P16591": {
+    "ensembl_id": "ENSG00000151422",
+    "symbol": "FER",
+    "sequence": null
+  },
+  "P17612": {
+    "ensembl_id": "ENSG00000072062",
+    "symbol": "PRKACA",
+    "sequence": null
+  },
+  "P23443": {
+    "ensembl_id": "ENSG00000108443",
+    "symbol": "RPS6KB1",
+    "sequence": null
+  },
+  "P24723": {
+    "ensembl_id": "ENSG00000027075",
+    "symbol": "PRKCH",
+    "sequence": null
+  },
+  "P27448": {
+    "ensembl_id": "ENSG00000075413",
+    "symbol": "MARK3",
+    "sequence": null
+  },
+  "P29317": {
+    "ensembl_id": "ENSG00000142627",
+    "symbol": "EPHA2",
+    "sequence": null
+  },
+  "P29597": {
+    "ensembl_id": "ENSG00000105397",
+    "symbol": "TYK2",
+    "sequence": null
+  },
+  "P31751": {
+    "ensembl_id": "ENSG00000105221",
+    "symbol": "AKT2",
+    "sequence": null
+  },
+  "P35916": {
+    "ensembl_id": "ENSG00000037280",
+    "symbol": "FLT4",
+    "sequence": null
+  },
+  "P35968": {
+    "ensembl_id": "ENSG00000128052",
+    "symbol": "KDR",
+    "sequence": null
+  },
+  "P41743": {
+    "ensembl_id": "ENSG00000163558",
+    "symbol": "PRKCI",
+    "sequence": null
+  },
+  "P42679": {
+    "ensembl_id": "ENSG00000007264",
+    "symbol": "MATK",
+    "sequence": null
+  },
+  "P42685": {
+    "ensembl_id": "ENSG00000111816",
+    "symbol": "FRK",
+    "sequence": null
+  },
+  "P43405": {
+    "ensembl_id": "ENSG00000165025",
+    "symbol": "SYK",
+    "sequence": null
+  },
+  "P48729": {
+    "ensembl_id": "ENSG00000113712",
+    "symbol": "CSNK1A1",
+    "sequence": null
+  },
+  "P48730": {
+    "ensembl_id": "ENSG00000141551",
+    "symbol": "CSNK1D",
+    "sequence": null
+  },
+  "P49137": {
+    "ensembl_id": "ENSG00000162889",
+    "symbol": "MAPKAPK2",
+    "sequence": null
+  },
+  "P49760": {
+    "ensembl_id": "ENSG00000176444",
+    "symbol": "CLK2",
+    "sequence": null
+  },
+  "P49840": {
+    "ensembl_id": "ENSG00000105723",
+    "symbol": "GSK3A",
+    "sequence": null
+  },
+  "P51451": {
+    "ensembl_id": "ENSG00000136573",
+    "symbol": "BLK",
+    "sequence": null
+  },
+  "P51617": {
+    "ensembl_id": "ENSG00000184216",
+    "symbol": "IRAK1",
+    "sequence": null
+  },
+  "P51812": {
+    "ensembl_id": "ENSG00000177189",
+    "symbol": "RPS6KA3",
+    "sequence": null
+  },
+  "P51817": {
+    "ensembl_id": "ENSG00000183943",
+    "symbol": "PRKX",
+    "sequence": null
+  },
+  "P51955": {
+    "ensembl_id": "ENSG00000117650",
+    "symbol": "NEK2",
+    "sequence": null
+  },
+  "P51957": {
+    "ensembl_id": "ENSG00000114904",
+    "symbol": "NEK4",
+    "sequence": null
+  },
+  "P52333": {
+    "ensembl_id": "ENSG00000105639",
+    "symbol": "JAK3",
+    "sequence": null
+  },
+  "P53778": {
+    "ensembl_id": "ENSG00000188130",
+    "symbol": "MAPK12",
+    "sequence": null
+  },
+  "P68400": {
+    "ensembl_id": "ENSG00000101266",
+    "symbol": "CSNK2A1",
+    "sequence": null
+  },
+  "P78368": {
+    "ensembl_id": "ENSG00000133275",
+    "symbol": "CSNK1G2",
+    "sequence": null
+  },
+  "Q00535": {
+    "ensembl_id": "ENSG00000164885",
+    "symbol": "CDK5",
+    "sequence": null
+  },
+  "Q05397": {
+    "ensembl_id": "ENSG00000169398",
+    "symbol": "PTK2",
+    "sequence": null
+  },
+  "Q05513": {
+    "ensembl_id": "ENSG00000067606",
+    "symbol": "PRKCZ",
+    "sequence": null
+  },
+  "Q05655": {
+    "ensembl_id": "ENSG00000163932",
+    "symbol": "PRKCD",
+    "sequence": null
+  },
+  "Q06418": {
+    "ensembl_id": "ENSG00000092445",
+    "symbol": "TYRO3",
+    "sequence": null
+  },
+  "Q08881": {
+    "ensembl_id": "ENSG00000113263",
+    "symbol": "ITK",
+    "sequence": null
+  },
+  "Q12851": {
+    "ensembl_id": "ENSG00000168067",
+    "symbol": "MAP4K2",
+    "sequence": null
+  },
+  "Q13131": {
+    "ensembl_id": "ENSG00000132356",
+    "symbol": "PRKAA1",
+    "sequence": null
+  },
+  "Q13153": {
+    "ensembl_id": "ENSG00000149269",
+    "symbol": "PAK1",
+    "sequence": null
+  },
+  "Q13188": {
+    "ensembl_id": "ENSG00000104375",
+    "symbol": "STK3",
+    "sequence": null
+  },
+  "Q13237": {
+    "ensembl_id": "ENSG00000138669",
+    "symbol": "PRKG2",
+    "sequence": null
+  },
+  "Q13554": {
+    "ensembl_id": "ENSG00000058404",
+    "symbol": "CAMK2B",
+    "sequence": null
+  },
+  "Q13555": {
+    "ensembl_id": "ENSG00000148660",
+    "symbol": "CAMK2G",
+    "sequence": null
+  },
+  "Q13557": {
+    "ensembl_id": "ENSG00000145349",
+    "symbol": "CAMK2D",
+    "sequence": null
+  },
+  "Q13627": {
+    "ensembl_id": "ENSG00000157540",
+    "symbol": "DYRK1A",
+    "sequence": null
+  },
+  "Q13976": {
+    "ensembl_id": "ENSG00000185532",
+    "symbol": "PRKG1",
+    "sequence": null
+  },
+  "Q14012": {
+    "ensembl_id": "ENSG00000134072",
+    "symbol": "CAMK1",
+    "sequence": null
+  },
+  "Q14680": {
+    "ensembl_id": "ENSG00000165304",
+    "symbol": "MELK",
+    "sequence": null
+  },
+  "Q15303": {
+    "ensembl_id": "ENSG00000178568",
+    "symbol": "ERBB4",
+    "sequence": null
+  },
+  "Q16288": {
+    "ensembl_id": "ENSG00000140538",
+    "symbol": "NTRK3",
+    "sequence": null
+  },
+  "Q16513": {
+    "ensembl_id": "ENSG00000065243",
+    "symbol": "PKN2",
+    "sequence": null
+  },
+  "Q16620": {
+    "ensembl_id": "ENSG00000148053",
+    "symbol": "NTRK2",
+    "sequence": null
+  },
+  "Q16644": {
+    "ensembl_id": "ENSG00000114738",
+    "symbol": "MAPKAPK3",
+    "sequence": null
+  },
+  "Q5VT25": {
+    "ensembl_id": "ENSG00000143776",
+    "symbol": "CDC42BPA",
+    "sequence": null
+  },
+  "Q7KZI7": {
+    "ensembl_id": "ENSG00000072518",
+    "symbol": "MARK2",
+    "sequence": null
+  },
+  "Q7L7X3": {
+    "ensembl_id": "ENSG00000160551",
+    "symbol": "TAOK1",
+    "sequence": null
+  },
+  "Q86V86": {
+    "ensembl_id": "ENSG00000198355",
+    "symbol": "PIM3",
+    "sequence": null
+  },
+  "Q8IW41": {
+    "ensembl_id": "ENSG00000089022",
+    "symbol": "MAPKAPK5",
+    "sequence": null
+  },
+  "Q8N4C8": {
+    "ensembl_id": "ENSG00000141503",
+    "symbol": "MINK1",
+    "sequence": null
+  },
+  "Q8NE63": {
+    "ensembl_id": "ENSG00000160396",
+    "symbol": "HIPK4",
+    "sequence": null
+  },
+  "Q8TDC3": {
+    "ensembl_id": "ENSG00000160469",
+    "symbol": "BRSK1",
+    "sequence": null
+  },
+  "Q96GD4": {
+    "ensembl_id": "ENSG00000178999",
+    "symbol": "AURKB",
+    "sequence": null
+  },
+  "Q96KB5": {
+    "ensembl_id": "ENSG00000168078",
+    "symbol": "PBK",
+    "sequence": null
+  },
+  "Q96PF2": {
+    "ensembl_id": "ENSG00000206203",
+    "symbol": "TSSK2",
+    "sequence": null
+  },
+  "Q96SB4": {
+    "ensembl_id": "ENSG00000096063",
+    "symbol": "SRPK1",
+    "sequence": null
+  },
+  "Q9BXA7": {
+    "ensembl_id": "ENSG00000212122",
+    "symbol": "TSSK1B",
+    "sequence": null
+  },
+  "Q9BZL6": {
+    "ensembl_id": "ENSG00000105287",
+    "symbol": "PRKD2",
+    "sequence": null
+  },
+  "Q9H2G2": {
+    "ensembl_id": "ENSG00000065613",
+    "symbol": "SLK",
+    "sequence": null
+  },
+  "Q9H2X6": {
+    "ensembl_id": "ENSG00000064393",
+    "symbol": "HIPK2",
+    "sequence": null
+  },
+  "Q9H3Y6": {
+    "ensembl_id": "ENSG00000125508",
+    "symbol": "SRMS",
+    "sequence": null
+  },
+  "Q9H4B4": {
+    "ensembl_id": "ENSG00000173846",
+    "symbol": "PLK3",
+    "sequence": null
+  },
+  "Q9HAZ1": {
+    "ensembl_id": "ENSG00000113240",
+    "symbol": "CLK4",
+    "sequence": null
+  },
+  "Q9HBY8": {
+    "ensembl_id": "ENSG00000101049",
+    "symbol": "SGK2",
+    "sequence": null
+  },
+  "Q9HCP0": {
+    "ensembl_id": "ENSG00000169118",
+    "symbol": "CSNK1G1",
+    "sequence": null
+  },
+  "Q9NR20": {
+    "ensembl_id": "ENSG00000010219",
+    "symbol": "DYRK4",
+    "sequence": null
+  },
+  "Q9NWZ3": {
+    "ensembl_id": "ENSG00000198001",
+    "symbol": "IRAK4",
+    "sequence": null
+  },
+  "Q9NYL2": {
+    "ensembl_id": "ENSG00000091436",
+    "symbol": "MAP3K20",
+    "sequence": null
+  },
+  "Q9P1W9": {
+    "ensembl_id": "ENSG00000102096",
+    "symbol": "PIM2",
+    "sequence": null
+  },
+  "Q9UEE5": {
+    "ensembl_id": "ENSG00000164543",
+    "symbol": "STK17A",
+    "sequence": null
+  },
+  "Q9UM73": {
+    "ensembl_id": "ENSG00000171094",
+    "symbol": "ALK",
+    "sequence": null
+  },
+  "Q9Y243": {
+    "ensembl_id": "ENSG00000117020",
+    "symbol": "AKT3",
+    "sequence": null
+  },
+  "Q9Y4K4": {
+    "ensembl_id": "ENSG00000012983",
+    "symbol": "MAP4K5",
+    "sequence": null
+  },
+  "Q9Y6M4": {
+    "ensembl_id": "ENSG00000151292",
+    "symbol": "CSNK1G3",
+    "sequence": null
+  },
+  "P31749": {
+    "ensembl_id": "ENSG00000142208",
+    "symbol": "AKT1",
+    "sequence": null
+  },
+  "P42336": {
+    "ensembl_id": "ENSG00000121879",
+    "symbol": "PIK3CA",
+    "sequence": null
+  },
+  "Q99683": {
+    "ensembl_id": "ENSG00000197442",
+    "symbol": "MAP3K5",
+    "sequence": null
+  },
+  "P00519": {
+    "ensembl_id": "ENSG00000097007",
+    "symbol": "ABL1",
+    "sequence": null
+  },
+  "P04049": {
+    "ensembl_id": "ENSG00000132155",
+    "symbol": "RAF1",
+    "sequence": null
+  },
+  "P05771": {
+    "ensembl_id": "ENSG00000166501",
+    "symbol": "PRKCB",
+    "sequence": null
+  },
+  "P07947": {
+    "ensembl_id": "ENSG00000176105",
+    "symbol": "YES1",
+    "sequence": null
+  },
+  "P08631": {
+    "ensembl_id": "ENSG00000101336",
+    "symbol": "HCK",
+    "sequence": null
+  },
+  "P16234": {
+    "ensembl_id": "ENSG00000134853",
+    "symbol": "PDGFRA",
+    "sequence": null
+  },
+  "P22455": {
+    "ensembl_id": "ENSG00000160867",
+    "symbol": "FGFR4",
+    "sequence": null
+  },
+  "P27361": {
+    "ensembl_id": "ENSG00000102882",
+    "symbol": "MAPK3",
+    "sequence": null
+  },
+  "P29323": {
+    "ensembl_id": "ENSG00000133216",
+    "symbol": "EPHB2",
+    "sequence": null
+  },
+  "P36888": {
+    "ensembl_id": "ENSG00000122025",
+    "symbol": "FLT3",
+    "sequence": null
+  },
+  "P41240": {
+    "ensembl_id": "ENSG00000103653",
+    "symbol": "CSK",
+    "sequence": null
+  },
+  "P41279": {
+    "ensembl_id": "ENSG00000107968",
+    "symbol": "MAP3K8",
+    "sequence": null
+  },
+  "P43403": {
+    "ensembl_id": "ENSG00000115085",
+    "symbol": "ZAP70",
+    "sequence": null
+  },
+  "P51813": {
+    "ensembl_id": "ENSG00000102010",
+    "symbol": "BMX",
+    "sequence": null
+  },
+  "P52564": {
+    "ensembl_id": "ENSG00000108984",
+    "symbol": "MAP2K6",
+    "sequence": null
+  },
+  "Q02750": {
+    "ensembl_id": "ENSG00000169032",
+    "symbol": "MAP2K1",
+    "sequence": null
+  },
+  "Q02763": {
+    "ensembl_id": "ENSG00000120156",
+    "symbol": "TEK",
+    "sequence": null
+  },
+  "Q04759": {
+    "ensembl_id": "ENSG00000065675",
+    "symbol": "PRKCQ",
+    "sequence": null
+  },
+  "Q04912": {
+    "ensembl_id": "ENSG00000164078",
+    "symbol": "MST1R",
+    "sequence": null
+  },
+  "Q06187": {
+    "ensembl_id": "ENSG00000010671",
+    "symbol": "BTK",
+    "sequence": null
+  },
+  "Q15418": {
+    "ensembl_id": "ENSG00000117676",
+    "symbol": "RPS6KA1",
+    "sequence": null
+  },
+  "Q15759": {
+    "ensembl_id": "ENSG00000185386",
+    "symbol": "MAPK11",
+    "sequence": null
+  },
+  "Q16566": {
+    "ensembl_id": "ENSG00000152495",
+    "symbol": "CAMK4",
+    "sequence": null
+  },
+  "Q8IU85": {
+    "ensembl_id": "ENSG00000183049",
+    "symbol": "CAMK1D",
+    "sequence": null
+  },
+  "Q9UHD2": {
+    "ensembl_id": "ENSG00000183735",
+    "symbol": "TBK1",
+    "sequence": null
+  },
+  "P17252": {
+    "ensembl_id": "ENSG00000154229",
+    "symbol": "PRKCA",
+    "sequence": null
+  },
+  "Q9UBS0": {
+    "ensembl_id": "ENSG00000175634",
+    "symbol": "RPS6KB2",
+    "sequence": null
+  },
+  "O60285": {
+    "ensembl_id": "ENSG00000074590",
+    "symbol": "NUAK1",
+    "sequence": null
+  },
+  "O75676": {
+    "ensembl_id": "ENSG00000162302",
+    "symbol": "RPS6KA4",
+    "sequence": null
+  },
+  "P08581": {
+    "ensembl_id": "ENSG00000105976",
+    "symbol": "MET",
+    "sequence": null
+  },
+  "P09619": {
+    "ensembl_id": "ENSG00000113721",
+    "symbol": "PDGFRB",
+    "sequence": null
+  },
+  "P09769": {
+    "ensembl_id": "ENSG00000000938",
+    "symbol": "FGR",
+    "sequence": null
+  },
+  "P17948": {
+    "ensembl_id": "ENSG00000102755",
+    "symbol": "FLT1",
+    "sequence": null
+  },
+  "P21802": {
+    "ensembl_id": "ENSG00000066468",
+    "symbol": "FGFR2",
+    "sequence": null
+  },
+  "P22607": {
+    "ensembl_id": "ENSG00000068078",
+    "symbol": "FGFR3",
+    "sequence": null
+  },
+  "P30530": {
+    "ensembl_id": "ENSG00000167601",
+    "symbol": "AXL",
+    "sequence": null
+  },
+  "P34947": {
+    "ensembl_id": "ENSG00000198873",
+    "symbol": "GRK5",
+    "sequence": null
+  },
+  "P42684": {
+    "ensembl_id": "ENSG00000143322",
+    "symbol": "ABL2",
+    "sequence": null
+  },
+  "P50750": {
+    "ensembl_id": "ENSG00000136807",
+    "symbol": "CDK9",
+    "sequence": null
+  },
+  "P54760": {
+    "ensembl_id": "ENSG00000196411",
+    "symbol": "EPHB4",
+    "sequence": null
+  },
+  "P80192": {
+    "ensembl_id": "ENSG00000006432",
+    "symbol": "MAP3K9",
+    "sequence": null
+  },
+  "Q13177": {
+    "ensembl_id": "ENSG00000180370",
+    "symbol": "PAK2",
+    "sequence": null
+  },
+  "Q13882": {
+    "ensembl_id": "ENSG00000101213",
+    "symbol": "PTK6",
+    "sequence": null
+  },
+  "Q14289": {
+    "ensembl_id": "ENSG00000120899",
+    "symbol": "PTK2B",
+    "sequence": null
+  },
+  "Q15078": {
+    "ensembl_id": "ENSG00000176749",
+    "symbol": "CDK5R1",
+    "sequence": null
+  },
+  "Q15118": {
+    "ensembl_id": "ENSG00000152256",
+    "symbol": "PDK1",
+    "sequence": null
+  },
+  "Q15139": {
+    "ensembl_id": "ENSG00000184304",
+    "symbol": "PRKD1",
+    "sequence": null
+  },
+  "Q96RG2": {
+    "ensembl_id": "ENSG00000115687",
+    "symbol": "PASK",
+    "sequence": null
+  },
+  "Q9UBE8": {
+    "ensembl_id": "ENSG00000087095",
+    "symbol": "NLK",
+    "sequence": null
+  },
+  "Q12866": {
+    "ensembl_id": "ENSG00000153208",
+    "symbol": "MERTK",
+    "sequence": null
+  },
+  "Q14164": {
+    "ensembl_id": "ENSG00000263528",
+    "symbol": "IKBKE",
+    "sequence": null
+  },
+  "P19784": {
+    "ensembl_id": "ENSG00000070770",
+    "symbol": "CSNK2A2",
+    "sequence": null
+  },
+  "P67870": {
+    "ensembl_id": "ENSG00000204435",
+    "symbol": "CSNK2B",
+    "sequence": null
+  },
+  "O43741": {
+    "ensembl_id": "ENSG00000131791",
+    "symbol": "PRKAB2",
+    "sequence": null
+  },
+  "P22612": {
+    "ensembl_id": "ENSG00000165059",
+    "symbol": "PRKACG",
+    "sequence": null
+  },
+  "P22694": {
+    "ensembl_id": "ENSG00000142875",
+    "symbol": "PRKACB",
+    "sequence": null
+  },
+  "P54619": {
+    "ensembl_id": "ENSG00000181929",
+    "symbol": "PRKAG1",
+    "sequence": null
+  },
+  "P54646": {
+    "ensembl_id": "ENSG00000162409",
+    "symbol": "PRKAA2",
+    "sequence": null
+  },
+  "Q9UGI9": {
+    "ensembl_id": "ENSG00000115592",
+    "symbol": "PRKAG3",
+    "sequence": null
+  },
+  "Q9UGJ0": {
+    "ensembl_id": "ENSG00000106617",
+    "symbol": "PRKAG2",
+    "sequence": null
+  },
+  "Q9Y478": {
+    "ensembl_id": "ENSG00000111725",
+    "symbol": "PRKAB1",
+    "sequence": null
+  },
+  "O00418": {
+    "ensembl_id": "ENSG00000103319",
+    "symbol": "EEF2K",
+    "sequence": null
+  },
+  "O00444": {
+    "ensembl_id": "ENSG00000142731",
+    "symbol": "PLK4",
+    "sequence": null
+  },
+  "O43781": {
+    "ensembl_id": "ENSG00000143479",
+    "symbol": "DYRK3",
+    "sequence": null
+  },
+  "P53667": {
+    "ensembl_id": "ENSG00000106683",
+    "symbol": "LIMK1",
+    "sequence": null
+  },
+  "Q07912": {
+    "ensembl_id": "ENSG00000061938",
+    "symbol": "TNK2",
+    "sequence": null
+  },
+  "Q9HBH9": {
+    "ensembl_id": "ENSG00000099875",
+    "symbol": "MKNK2",
+    "sequence": null
+  },
+  "Q9BWU1": {
+    "ensembl_id": "ENSG00000155111",
+    "symbol": "CDK19",
+    "sequence": null
+  },
+  "P11802": {
+    "ensembl_id": "ENSG00000135446",
+    "symbol": "CDK4",
+    "sequence": null
+  },
+  "Q00534": {
+    "ensembl_id": "ENSG00000105810",
+    "symbol": "CDK6",
+    "sequence": null
+  },
+  "Q02156": {
+    "ensembl_id": "ENSG00000171132",
+    "symbol": "PRKCE",
+    "sequence": null
+  },
+  "O00329": {
+    "ensembl_id": "ENSG00000171608",
+    "symbol": "PIK3CD",
+    "sequence": null
+  },
+  "P42338": {
+    "ensembl_id": "ENSG00000051382",
+    "symbol": "PIK3CB",
+    "sequence": null
+  },
+  "P48736": {
+    "ensembl_id": "ENSG00000105851",
+    "symbol": "PIK3CG",
+    "sequence": null
+  },
+  "P78527": {
+    "ensembl_id": "ENSG00000253729",
+    "symbol": "PRKDC",
+    "sequence": null
+  },
+  "P29376": {
+    "ensembl_id": "ENSG00000062524",
+    "symbol": "LTK",
+    "sequence": null
+  },
+  "P36507": {
+    "ensembl_id": "ENSG00000126934",
+    "symbol": "MAP2K2",
+    "sequence": null
+  },
+  "P49336": {
+    "ensembl_id": "ENSG00000132964",
+    "symbol": "CDK8",
+    "sequence": null
+  },
+  "Q04771": {
+    "ensembl_id": "ENSG00000115170",
+    "symbol": "ACVR1",
+    "sequence": null
+  },
+  "Q5S007": {
+    "ensembl_id": "ENSG00000188906",
+    "symbol": "LRRK2",
+    "sequence": null
+  },
+  "Q9UQM7": {
+    "ensembl_id": "ENSG00000070808",
+    "symbol": "CAMK2A",
+    "sequence": null
+  },
+  "Q9Y463": {
+    "ensembl_id": "ENSG00000105204",
+    "symbol": "DYRK1B",
+    "sequence": null
+  },
+  "P50613": {
+    "ensembl_id": "ENSG00000134058",
+    "symbol": "CDK7",
+    "sequence": null
+  },
+  "Q9P289": {
+    "ensembl_id": "ENSG00000134602",
+    "symbol": "STK26",
+    "sequence": null
+  },
+  "Q02779": {
+    "ensembl_id": "ENSG00000130758",
+    "symbol": "MAP3K10",
+    "sequence": null
+  },
+  "Q96L34": {
+    "ensembl_id": "ENSG00000007047",
+    "symbol": "MARK4",
+    "sequence": null
+  },
+  "Q96RR4": {
+    "ensembl_id": "ENSG00000110931",
+    "symbol": "CAMKK2",
+    "sequence": null
+  },
+  "Q9H0K1": {
+    "ensembl_id": "ENSG00000170145",
+    "symbol": "SIK2",
+    "sequence": null
+  },
+  "Q9HC98": {
+    "ensembl_id": "ENSG00000119408",
+    "symbol": "NEK6",
+    "sequence": null
+  },
+  "P30291": {
+    "ensembl_id": "ENSG00000166483",
+    "symbol": "WEE1",
+    "sequence": null
+  },
+  "P49674": {
+    "ensembl_id": "ENSG00000213923",
+    "symbol": "CSNK1E",
+    "sequence": null
+  },
+  "P23458": {
+    "ensembl_id": "ENSG00000162434",
+    "symbol": "JAK1",
+    "sequence": null
+  },
+  "P42345": {
+    "ensembl_id": "ENSG00000198793",
+    "symbol": "MTOR",
+    "sequence": null
+  },
+  "Q9BUB5": {
+    "ensembl_id": "ENSG00000079277",
+    "symbol": "MKNK1",
+    "sequence": null
+  },
+  "P49759": {
+    "ensembl_id": "ENSG00000013441",
+    "symbol": "CLK1",
+    "sequence": null
+  },
+  "Q9UBF8": {
+    "ensembl_id": "ENSG00000143393",
+    "symbol": "PI4KB",
+    "sequence": null
+  },
+  "Q16512": {
+    "ensembl_id": "ENSG00000123143",
+    "symbol": "PKN1",
+    "sequence": null
+  }
+}
